@@ -21,6 +21,10 @@ func main() {
  *               otherwise return 0
  * func guess(num int) int;
  */
+func guess(_ int) int {
+	return 0
+}
+
 func guessNumber(n int) int {
 	if n == 1 {
 		return n
